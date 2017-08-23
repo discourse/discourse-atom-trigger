@@ -7,6 +7,14 @@ This is useful on Windows systems when working on Discourse in a VM
 with shared folders, where changes to files are not picked up right
 away.
 
+### Requirements
+
+* Recent version of atom
+
+* Install [discourse-atom-receiver](https://github.com/discourse/discourse-atom-receiver)
+in your discourse development server.
+
+
 ### How it Works
 
 Whenever you save a file that ends with .scss, if the full path
