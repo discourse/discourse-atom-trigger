@@ -1,7 +1,7 @@
 {
   "name": "discourse-atom-trigger",
   "main": "./lib/discourse-atom-trigger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A short description of your package",
   "keywords": [],
   "repository": "https://github.com/discourse/discourse-atom-trigger",
